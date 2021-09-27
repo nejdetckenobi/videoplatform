@@ -1,0 +1,6 @@
+pafy
+django
+djangorestframework
+django_extensions
+requests
+youtube-dl
